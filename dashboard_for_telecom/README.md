@@ -27,3 +27,8 @@
 
 **Используемые библиотеки:**
 sqlalchemy, pandas
+
+**Результаты проекта:**
+
+Подготовлен [дашборд](https://public.tableau.com/app/profile/tatiana4391/viz/project_telecomm/Dashboardgroups?publish=yes), отражающий NPS по категориям пользователей/общий NPS и [презентация](https://disk.yandex.ru/i/3CtzafypTX0j6Q) результатов.
+
